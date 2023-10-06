@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "dCDZWdIOGzVThkK7Itf3xvxFOIRqVTN+BZQs7+ITdtLp4XOCcvolC6em9XOEIuEV+Q9ulHpzgQjdpVOd6R+4lg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rbonotto\\Documents\\Pessoal\\Projetos\\Git\\api-mediatr-cqrs-asp-net-core\\ApiMediatrCQRS\\api-mediatr-cqrs\\api-mediatr-cqrs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rbonotto\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\rbonotto\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\rbonotto\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512",
+    "C:\\Users\\rbonotto\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\rbonotto\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\rbonotto\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\rbonotto\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

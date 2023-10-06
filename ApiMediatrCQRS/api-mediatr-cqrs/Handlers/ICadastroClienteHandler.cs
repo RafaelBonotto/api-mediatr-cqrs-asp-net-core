@@ -5,6 +5,6 @@ namespace api_mediatr_cqrs.Handlers
 {
     public interface ICadastroClienteHandler
     {
-        ClienteResponse Handle(ClienteRequest request);
+        CadastroClienteResponse Handle(CadastroClienteRequest request);
     }
 }

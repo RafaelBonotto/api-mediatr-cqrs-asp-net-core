@@ -1,6 +1,6 @@
 ﻿namespace api_mediatr_cqrs.Comandos.Responses
 {
-    public class ClienteResponse
+    public class CadastroClienteResponse
     {
         public Guid Id { get; set; }
         public string Nome { get; set; }

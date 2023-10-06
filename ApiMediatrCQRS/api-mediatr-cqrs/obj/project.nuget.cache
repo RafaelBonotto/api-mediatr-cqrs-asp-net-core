@@ -1,10 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "dCDZWdIOGzVThkK7Itf3xvxFOIRqVTN+BZQs7+ITdtLp4XOCcvolC6em9XOEIuEV+Q9ulHpzgQjdpVOd6R+4lg==",
+  "dgSpecHash": "4TPyk2+s2HjejBRXIwx+PJZF0yKGrnYYSaYZjoHwgVLjiaWMGum5IY/Jxl03pcuyDFrqlqFCJQfK2ZmeSOwiOA==",
   "success": true,
   "projectFilePath": "C:\\Users\\rbonotto\\Documents\\Pessoal\\Projetos\\Git\\api-mediatr-cqrs-asp-net-core\\ApiMediatrCQRS\\api-mediatr-cqrs\\api-mediatr-cqrs.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\rbonotto\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\rbonotto\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\rbonotto\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\rbonotto\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\rbonotto\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\rbonotto\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\rbonotto\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512",
     "C:\\Users\\rbonotto\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
